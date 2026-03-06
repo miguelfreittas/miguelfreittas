@@ -1,4 +1,6 @@
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=30&duration=4997&pause=1000&color=D70A0A&center=true&width=435&lines=Welcome+to+my+profile"/>
+</div>
 
 ###
 
