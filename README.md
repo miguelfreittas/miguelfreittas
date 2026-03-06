@@ -18,6 +18,8 @@
   <img src="https://i.pinimg.com/736x/c4/10/c7/c410c7c8c7bb31013500d214a7da8a8b.jpg" height="30" alt="capcut logo"  />
   <img width="12" />
   <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" height="30" alt="alight motion logo"  />
+  <img width="12" />
+  <img src="https://camo.githubusercontent.com/0efc64e37dd0f93a3c27ea684cb918e90307e1fd720f46cf9c6b2635aaadedbf/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6c696e75782f6c696e75782d6f726967696e616c2e737667" height="30" alt="linux logo"  />
 </div>
 
 ###
