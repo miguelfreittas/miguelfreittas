@@ -1,4 +1,4 @@
-## Hi there 👋
+## hi there
 
 
 ---
@@ -17,7 +17,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/31/f0/74/31f0748f580d995d246a8386d220b19d.gif" width="700"/>
+  <img src="https://i.pinimg.com/originals/32/90/d5/3290d59c3deaa347f2bca311daa03780.gif" width="700"/>
 </p>
 
 ---  
