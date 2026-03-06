@@ -14,10 +14,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://i.pinimg.com/736x/c4/10/c7/c410c7c8c7bb31013500d214a7da8a8b.jpg" height="30" alt="capcut logo"  />
   <img width="12" />
   <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" height="30" alt="alight motion logo"  />
-  <img width="12" />
 </div>
 
 ###
