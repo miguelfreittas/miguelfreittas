@@ -14,6 +14,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img src="https://static.vecteezy.com/ti/vetor-gratis/p1/13948546-logotipo-capcut-em-fundo-branco-transparente-gratis-vetor.jpg" height="30" alt="capcut logo"  />
+  <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" height="30" alt="alight motion logo"  />
 </div>
 
 ###
