@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/edab7e0d-0046-46fa-87bd-8d726399743c"/>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=30&duration=4997&pause=1000&color=FFFFFF&center=true&width=435&lines=Welcome+to+my+profile"/>
 </div>
 
