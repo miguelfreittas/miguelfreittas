@@ -2,7 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=3087C2&section=header&reversal=true&descAlign=39"/>
 </div>
 
-##
+
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=30&duration=4997&pause=1000&color=FFFFFF&center=true&width=435&lines=Welcome+to+my+profile"/>
