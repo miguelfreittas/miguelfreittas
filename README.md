@@ -1,7 +1,5 @@
 <div align="center">
-  <h1 class="ml12">A new production</h1>
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/2.0.2/anime.min.js"></script>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=47ABED&reversal=true"/>
 </div>
 
 
