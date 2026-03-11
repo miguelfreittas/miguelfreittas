@@ -9,7 +9,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=30&duration=4997&pause=1000&color=FFFFFF&center=true&width=435&lines=Welcome+to+my+profile"/>
 </div>
 
---
+-
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -27,7 +27,7 @@
   <img src="https://play-lh.googleusercontent.com/OU0BlP8C9-V7ECl2crma7B48nzDbK7liSLjn0j_fpTlyWG6qyEE-mw_KFZ9aOXF0a3w" height="30" alt="alight motion logo"  />
   <img width="12" />  
 
---
+-
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/9e/d8/ff/9ed8ffc99e4dbcc2e221740e1bfe4676.gif" width="700"/>
