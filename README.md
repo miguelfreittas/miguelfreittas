@@ -3,14 +3,6 @@
 </div>
 
 
-
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Newsreader&weight=500&size=30&duration=4997&pause=1000&color=FFFFFF&center=true&width=435&lines=Welcome+to+my+profile"/>
-</div>
-
-#
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
