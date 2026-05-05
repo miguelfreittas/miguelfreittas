@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=47ABED&reversal=true"/>
-</div>
+
 
 
 <div align="center">
@@ -28,6 +26,3 @@
 
 
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=47ABED&reversal=true&section=footer"/>
-</div>
