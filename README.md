@@ -1,13 +1,14 @@
 <div align="center">
 
-**web developer & Python · 17 years old**
+# Olá, eu sou o Miguel! 👋
 
-<br/>
-available for freelance and collaborative projects.
+**Web Developer & Python · 17 years old · Fluent in English**
+
+Available for freelance and collaborative projects.
 
 ---
 
-**tools**
+### 🛠️ Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
 <img width="10" />
@@ -21,7 +22,7 @@ available for freelance and collaborative projects.
 
 ---
 
-**stats**
+### 📊 Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=miguelfreittas&theme=default&hide_border=true)
 
@@ -29,7 +30,7 @@ available for freelance and collaborative projects.
 
 ---
 
-**find me here**
+### 🌐 Find me here
 
 [![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelfreittas.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelfreittas)
