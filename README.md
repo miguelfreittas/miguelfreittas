@@ -1,17 +1,13 @@
-
-
-
 <div align="center">
 
-
-** web developer & Python · 17 years old **
+**web developer & Python · 17 years old**
 
 <br/>
 available for freelance and collaborative projects.
 
 ---
 
-**  tools
+**tools**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" title="Python"/>
 <img width="10" />
@@ -25,22 +21,21 @@ available for freelance and collaborative projects.
 
 ---
 
-**  stats
+**stats**
 
-(https://streak-stats.demolab.com/?user=miguelfreittas)
+![GitHub Streak](https://streak-stats.demolab.com?user=miguelfreittas&theme=default&hide_border=true)
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfreittas&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfreittas&layout=compact&theme=default&hide_border=true)
 
 ---
 
-** find me here
+**find me here**
 
-(https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelfreittas.github.io)
+[![Portfólio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://miguelfreittas.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miguelfreittas)
 
 ---
 
 <img src="https://i.pinimg.com/originals/a0/3d/c9/a03dc92a6528b39fce71e850c12c47cd.gif" width="500"/>
-
 
 </div>
