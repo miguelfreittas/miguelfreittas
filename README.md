@@ -25,7 +25,6 @@ available for freelance and collaborative projects.
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=miguelfreittas&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelfreittas&layout=compact&theme=dark&hide_border=true&langs_count=6)
 
 ---
 
