@@ -2,8 +2,6 @@
 
 **web developer & Python · 17 years old**
 
-<br/>
-available for freelance and collaborative projects.
 
 ---
 
