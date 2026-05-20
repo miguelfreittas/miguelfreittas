@@ -18,13 +18,6 @@
 
 ---
 
-**stats**
-
-![GitHub Streak](https://streak-stats.demolab.com?user=miguelfreittas&theme=dark&hide_border=true)
-
-
----
-
 
 <img src="https://i.pinimg.com/originals/a0/3d/c9/a03dc92a6528b39fce71e850c12c47cd.gif" width="500"/>
 
